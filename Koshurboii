@@ -1,18 +1,5 @@
 [
   {
-    "test": "Ya habibi 💕",
-    "id": "شما میتوانید از مزایای برنامه استفاده کنید",
-    "time": "12:00",
-    "Team": "Powerd By Web Writer",
-    "img": "https://www.coffeeandcigarettes.co.uk/wp-content/uploads/2018/06/quad_0002_TinHat_Habit_Quad_Art_FINAL.jpg.jpg",
-    "color": "#2196F3"
-  },
-  {
-    "test": "برنامه تا هفته آینده میشود",
-    "id": "شما میتوانید از مزایای برنامه استفاده کنید",
-    "time": "14:30",
-    "Team": "fuck you habibi",
-    "img": "https://www.coffeeandcigarettes.co.uk/wp-content/uploads/2017/07/les_affames.jpg",
-    "color": "#541F30"
-  }
+    "test": "Ya habibi 💕"
+   }
 ]
